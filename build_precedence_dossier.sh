@@ -31,3 +31,5 @@ echo -e "\n🔍 Recall test:"
 "${ROOT}/examples/gamma_07/run.sh" recall "auth" 2>/dev/null | head -2
 echo -e "\n✅ Gamma #7 WORKING — offline, no API keys, pure sovereignty\n"
 echo "⚠️  PRESERVE THIS DIRECTORY — legal evidence of precedence"
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=build_precedence_dossier.sh
